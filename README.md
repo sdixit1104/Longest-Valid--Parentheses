@@ -100,7 +100,7 @@ Longest-Valid-Parentheses/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/Longest-Valid-Parentheses.git
+git clone https://github.com/sdixit1104/Longest-Valid--Parentheses
 ```
 
 2. Open the project directory.
